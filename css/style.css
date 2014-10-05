@@ -1,0 +1,22 @@
+body {
+	background-color: #2E2E2E;
+	font-family: monospace;
+	text-align: center;
+}
+
+.head {
+	font-size: 26px;
+}
+
+.wtext {
+	color: #B3B3B3;
+}
+
+.otext {
+	color: #FF9D2E;
+}
+
+.maincontainer {
+	margin: auto;
+	width: 300px;
+}
